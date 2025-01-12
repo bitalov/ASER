@@ -54,7 +54,8 @@ To use the original dataset files run without `--use_saved_files`, the data will
 python main.py 
 ```
 
-## Contributing
+## Authors
+Ali Abouzeid , Bilal Elbouardi & Mohammed Maged
 
 
 ## License
