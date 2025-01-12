@@ -1,0 +1,14 @@
+argparse==1.4.0
+IPython==8.14.0
+joblib==1.4.2
+librosa==0.10.2.post1
+matplotlib==3.9.2
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.5.2
+seaborn==0.13.2
+soundfile==0.12.1
+torch==2.5.1
+tqdm==4.67.0
+Pyyaml==6.0.2
+typeguard==4.4.1
