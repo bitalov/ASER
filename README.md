@@ -12,7 +12,7 @@ This repository contains the implementation of an emotion recognition model usin
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Authors](#authors)
 - [License](#license)
 
 ## Installation
