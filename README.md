@@ -1,3 +1,5 @@
+[This project was completed as part of a group effort.]
+
 # Emotion Recognition Model
 ## Model Architecture
 
